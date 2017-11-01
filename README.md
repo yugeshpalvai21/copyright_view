@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+	CopyrightView::Renderer.copyright 2010, "Company Name", "Message"
+```
 
 ## Development
 
