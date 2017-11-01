@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-	CopyrightView::Renderer.copyright 2010, "Company Name", "Message"
+	CopyrightView::Renderer.copyright "Company Established Year", "Company Name", "Message"
 ```
 
 ## Development
